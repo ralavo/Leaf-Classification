@@ -26,4 +26,4 @@ In an attempt to optimize the model we manipulated some variables such as the nu
 
 After multiple run of tweaking, we finally got 80% of accuracy from our model after running through 100 epochs. The chart below compare the training loss and the validation loss to determine if any overfitting was detected.
 
-![babyroomwatchercomplete](https://cloud.githubusercontent.com/assets/5084852/25751868/78465688-3184-11e7-8753-67e0665a70b1.JPG)
+<img width="690" alt="leaf-model" src="https://user-images.githubusercontent.com/5084852/37256184-9d063cb6-252d-11e8-9189-68152e1b537f.png">
